@@ -4,7 +4,7 @@
       vontade. Seja bem-vindo(a),
         caro(a) detetive
 -->
-## _Konbanwa_, eu sou Matheus Comparotto! &nbsp;<img alt="ÙwÚ" width="32px" src="./assets/vomiting-emoji-svgrepo-com.svg" />
+## Konnichiwa, eu sou Matheus Comparotto! UwU
 
 <img title="Agradecerei se puder me fazer um cafuné com o ponteiro do mouse" align="right" width="256px" src="./assets/avataaars.svg" />
 
