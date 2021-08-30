@@ -4,7 +4,7 @@
       vontade. Seja bem-vindo(a),
         caro(a) detetive
 -->
-## Konnichiwa, eu sou Matheus Comparotto! UwU
+## _Konnichiwa_, _watashi wa_ Matheus Comparotto! UwU
 
 <img title="Agradecerei se puder me fazer um cafuné com o ponteiro do mouse" align="right" width="256px" src="./assets/avataaars.svg" />
 
@@ -61,7 +61,6 @@ No momento, estou propenso a aceitar apenas cartas de Hogwarts-- brincadeiras à
   
   - [Avataaars — Avatar Illustrations Sketch Library](https://avataaars.com/)
   - [Coffee Cup Vector SVG Icon (246) - SVG Repo](https://www.svgrepo.com/svg/186270/coffee-cup)
-  - [Vomiting Emoji Vector SVG Icon (3) - SVG Repo](https://www.svgrepo.com/svg/271903/vomiting-emoji)
   - [Death Star Star Wars Vector SVG Icon - SVG Repo](https://www.svgrepo.com/svg/275952/death-star-star-wars)
   - [alexandresanlim/Badges4-README.md-Profile: 👩‍💻👨‍💻 Improve your README.md profile with these amazing badges.](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 </details>
