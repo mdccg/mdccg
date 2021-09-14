@@ -6,7 +6,7 @@
 -->
 
 <h2>
-  <img title="Boa tarde, eu sou Matheus Comparotto! UwU" src="./assets/saudacao.svg" alt="Konnichiwa, watashi wa Comparotto Matheus-sama! UwU" />
+  <img title="Boa tarde, eu sou Matheus Comparotto! UwU" src="./assets/saudacao-1.svg" alt="Konnichiwa, watashi wa Comparotto Matheus-sama! UwU" />
 </h2>
 
 <img title="Agradecerei se puder me fazer um cafuné com o ponteiro do mouse" align="right" width="256px" src="./assets/avataaars.svg" />
