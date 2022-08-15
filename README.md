@@ -36,7 +36,7 @@ export const matheus = {
 I'm [computer technician](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/integrado/informatica) (2017-2020)
 and a future [technologist in Internet Systems](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/graduacao/sistemas-para-internet/sistemas-para-internet)
 (2021-2024) by [Federal Institute of Education, Science and Technology of _Mato Grosso do Sul_](https://ifms.edu.br)
-_campus Aquidauana_.
+(known by _IFMS_) _campus Aquidauana_.
 
 <img align="right" alt="Lamp" width="64px" src="./assets/idea.svg" />
 
@@ -44,9 +44,13 @@ Since 2018, I have been a scholarship student through the Institutional Scientif
 (known in Brazil by the acronym PIBIC). In addition to the software projects developed during both courses, I
 actively participated in teaching projects aimed at software development, among which I may mention:
 
-- ### IFMS Aqui Comunica: Scrum (2018);
-  Which was focused on developing an event website for the institution using
-  the Scrum methodology.
+- ### _IFMS Aqui Comunica_: Scrum (2018);
+  &quot;_IFMS_ Here It Communicates: Scrum&quot; from brazilian portuguese. This project
+  was focused on developing an event website for the institution using the Scrum
+  methodoogy. It received accreditation for the Technology, Engineering and
+  Science Fair of _Mato Grosso do Sul_ (known by the acronym FETECMS),
+  considered the largest scientific event in the Brazilian Midwest
+  region.
 
 - ### [_Kalivôno: promovendo o acesso à língua Terena por meio de um app progressivo_](https://kalivono-app.web.app) (2019-2020);
   &quot;Child: promoting access to the Terena language through a progressive app&quot; from Terena and brazilian
@@ -59,13 +63,9 @@ actively participated in teaching projects aimed at software development, among 
   _Mato Grosso do Sul_. Its objective is to collect course reviews, provide jobs and encourage them to continue in
   the institution through other courses or selection processes so that they may join the institution as employees.
 
-<img align="left" alt="Calculator" width="48px" src="./assets/calculator.svg" />
+---
 
-Here are some web projects I've developed and hosted through the Firebase service, and their source code is also available in the following repositories for a peek. In addition to these, there are also other non-web-oriented projects on my GitHub.
-
-<br />
-
-## Some web (and mobile) apps
+## Some apps I'm proud of
 
 | App | Repo | Last modification | Motivation |
 |-|-|-|-|

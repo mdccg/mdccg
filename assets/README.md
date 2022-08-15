@@ -8,7 +8,6 @@
 
 - [Cap, education, hat, school icon - Free download](https://www.iconfinder.com/icons/3069198/cap_education_hat_school_icon)
 - [Think, creative, thinking, light, idea icon - Free download](https://www.iconfinder.com/icons/3069195/think_creative_thinking_light_idea_icon)
-- [Bank, banking, budget, business, finance icon - Free download](https://www.iconfinder.com/icons/3069197/bank_banking_budget_business_finance_icon)
 
 - [alexandresanlim/Badges4-README.md-Profile: 👩‍💻👨‍💻 Improve your README.md profile with these amazing badges.](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
