@@ -65,14 +65,17 @@ Here are some web projects I've developed and hosted through the Firebase servic
 
 <br />
 
-## Some apps
+## Some web (and mobile) apps
 
 | App | Repo | Last modification | Motivation |
 |-|-|-|-|
-| [Weeklymotion](https://weeklymotion.web.app) | [weeklymotion](https://github.com/mdccg/weeklymotion) | April 25<sup>th</sup>, 2022 | A website that uses endpoints from the Dailymotion streaming service requested in the curricular unit Construction of Web Pages 2
-| [Floor calc](https://floor-calc.web.app) | [floor-calc](https://github.com/mdccg/floor-calc) | March 30<sup>th</sup>, 2022 | A website (requested in the curricular unit Construction of Web Pages 2) that calculates the cost of floors, taking as a parameter the dimensions, quantity and type of flooring
-| [Meet Krunker](https://conheca-krunker.web.app) | [bora-krunker](https://github.com/mdccg/bora-krunker) | December 8<sup>th</sup>, 2021 | An informational website about a game chosen by the student requested in the curricular unit Construction of Web Pages 1
-| [Little Matheus' blog](https://blog-do-matheuzinho.web.app) | [blog-do-matheuzinho](https://github.com/mdccg/blog-do-matheuzinho) | November 24<sup>th</sup>, 2021 | A blog about me requested in the curricular unit Construction of Web Pages 1
+| TV Search | [enhanced-tv-search](https://github.com/mdccg/enhanced-tv-search) | June 20<sup>th</sup>, 2022 | A website (requested in the curricular unit Construction of Web Pages 2) that uses endpoints from the TVmaze community to display TV shows and allow the user to bookmark them. The website is secured with authentication through three providers: Google, GitHub and Microsoft
+| Zip Zop | [zip-zop](https://github.com/mdccg/zip-zop) | May 28<sup>th</sup>, 2022 | A clone of a messaging app with Expo React Native and internationalization support ([i18n](https://www.npmjs.com/package/i18n))
+| Firefighter Vehicles Monitor | [controle-de-viaturas](https://github.com/mdccg/controle-de-viaturas) | May 28<sup>th</sup>, 2022 | A progressive web app developed for the 1<sup>st</sup> Subgroup of Independent Military Firefighters in the _Aquidauana_ city. Its objective is to inspect and generate daily and monthly reports on firefighting vehicles, storing information such as prefix, which vehicles belong to the rescue train and which are parked in the yard, distance marked by the odometer, fuel level and any comments
+| Autenticator | [autenticator](https://github.com/mdccg/autenticator) | May 24<sup>th</sup>, 2022 | A website (requested in the curricular unit Construction of Web Pages 2) that uses the Firebase service to authenticate users with email and password
+| [Weeklymotion](https://weeklymotion.web.app) | [weeklymotion](https://github.com/mdccg/weeklymotion) | April 25<sup>th</sup>, 2022 | A website (requested in the curricular unit Construction of Web Pages 2) that uses endpoints from the Dailymotion streaming service
+| floor calc | [floor-calc](https://github.com/mdccg/floor-calc) | March 30<sup>th</sup>, 2022 | A website (requested in the curricular unit Construction of Web Pages 2) that calculates the cost of floors, taking as a parameter the dimensions, quantity and type of flooring
+| [Meet Krunker](https://conheca-krunker.web.app) | [bora-krunker](https://github.com/mdccg/bora-krunker) | December 8<sup>th</sup>, 2021 | An informational website (requested in the curricular unit Construction of Web Pages 1) about a game chosen by the student
 | [LNEM](https://ufpe-lab.web.app) | [ufpe-lab-neuroendocrinologia](https://github.com/mdccg/ufpe-lab-neuroendocrinologia) | October 8<sup>th</sup>, 2021 | A website developed for the Federal University of _Pernambuco campus Recife_'s Laboratory of Neuroendocrinology and Metabolism
 | [AFaP-TEA](https://afap-tea.web.app) | [afap-tea](https://github.com/mdccg/afap-tea) | April 27<sup>th</sup>, 2019 | A website aimed at disseminating knowledge about autism in _Aquidauana_ city requested in the curricular unit Web Development 1
 
