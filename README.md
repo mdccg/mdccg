@@ -14,17 +14,23 @@ Welcome to my profile, let me to introduce myself:
 export const matheus = {
   pronouns: 'he/him/his',
   skills: {
-    backend: ['express'],
-    frontend: {
-      web: ['react'],
-      mobile: [
-        'expo react native',
-        'progressive web app'
-      ]
-    },
-    databases: ['mongo', 'postgres'],
-    miscellaneous: ['firebase', 'heroku']
+    programmingLanguages: [
+      'typescript',
+      'javascript',
+      'python',
+      'java',
+      'c'
+    ],
+    bundlers: ['vite', 'create-react-app', 'create-expo-app'],
+    backend: ['express', 'node', 'php', 'xampp'],
+    databases: ['postgres', 'mongodb'],
+    testing: ['jest', 'cypress', 'jasmine'],
+    etCetera: ['vercel', 'firebase', 'oauth']
   },
+  academicCourses: [
+    'technology course in internet systems',
+    'technical course in informatics'
+  ],
   fuel: 'coffee'
 };
 ```
@@ -44,15 +50,7 @@ Since 2018, I have been a scholarship student through the Institutional Scientif
 (known in Brazil by the acronym PIBIC). In addition to the software projects developed during both courses, I
 actively participated in teaching projects aimed at software development, among which I may mention:
 
-- ### _IFMS Aqui Comunica_: Scrum (2018);
-  &quot;_IFMS_ Here It Communicates: Scrum&quot; from brazilian portuguese. This project
-  was focused on developing an event website for the institution using the Scrum
-  methodoogy. It received accreditation for the Technology, Engineering and
-  Science Fair of _Mato Grosso do Sul_ (known by the acronym FETECMS),
-  considered the largest scientific event in the Brazilian Midwest
-  region.
-
-- ### [_Kalivôno: promovendo o acesso à língua Terena por meio de um app progressivo_](https://kalivono-app.web.app) (2019-2020);
+- ### [_Kalivôno: promovendo o acesso à língua Terena por meio de um app progressivo_](https://kalivono-app.web.app) (2019-current);
   &quot;Child: promoting access to the Terena language through a progressive app&quot; from Terena and brazilian
   portuguese. This app consisted of a dictionary to revitalize the Terena language, that is, an indigenous
   language, and provide easy and modern means for its diffusion.
@@ -63,21 +61,15 @@ actively participated in teaching projects aimed at software development, among 
   _Mato Grosso do Sul_. Its objective is to collect course reviews, provide jobs and encourage them to continue in
   the institution through other courses or selection processes so that they may join the institution as employees.
 
----
+- ### _IFMS Aqui Comunica_: Scrum (2018);
+  &quot;_IFMS_ Here It Communicates: Scrum&quot; from brazilian portuguese. This project
+  was focused on developing an event website for the institution using the Scrum
+  methodoogy. It received accreditation for the Technology, Engineering and
+  Science Fair of _Mato Grosso do Sul_ (known by the acronym FETECMS),
+  considered the largest scientific event in the Brazilian Midwest
+  region.
 
-## Some apps I'm proud of
-
-| App | Repo | Last modification | Motivation |
-|-|-|-|-|
-| TV Search | [enhanced-tv-search](https://github.com/mdccg/enhanced-tv-search) | June 20<sup>th</sup>, 2022 | A website (requested in the curricular unit Construction of Web Pages 2) that uses endpoints from the TVmaze community to display TV shows and allow the user to bookmark them. The website is secured with authentication through three providers: Google, GitHub and Microsoft
-| Zip Zop | [zip-zop](https://github.com/mdccg/zip-zop) | May 28<sup>th</sup>, 2022 | A clone of a messaging app with Expo React Native and internationalization support ([i18n](https://www.npmjs.com/package/i18n))
-| Firefighter Vehicles Monitor | [controle-de-viaturas](https://github.com/mdccg/controle-de-viaturas) | May 28<sup>th</sup>, 2022 | A progressive web app developed for the 1<sup>st</sup> Subgroup of Independent Military Firefighters in the _Aquidauana_ city. Its objective is to inspect and generate daily and monthly reports on firefighting vehicles, storing information such as prefix, which vehicles belong to the rescue train and which are parked in the yard, distance marked by the odometer, fuel level and any comments
-| Autenticator | [autenticator](https://github.com/mdccg/autenticator) | May 24<sup>th</sup>, 2022 | A website (requested in the curricular unit Construction of Web Pages 2) that uses the Firebase service to authenticate users with email and password
-| [Weeklymotion](https://weeklymotion.web.app) | [weeklymotion](https://github.com/mdccg/weeklymotion) | April 25<sup>th</sup>, 2022 | A website (requested in the curricular unit Construction of Web Pages 2) that uses endpoints from the Dailymotion streaming service
-| floor calc | [floor-calc](https://github.com/mdccg/floor-calc) | March 30<sup>th</sup>, 2022 | A website (requested in the curricular unit Construction of Web Pages 2) that calculates the cost of floors, taking as a parameter the dimensions, quantity and type of flooring
-| [Meet Krunker](https://conheca-krunker.web.app) | [bora-krunker](https://github.com/mdccg/bora-krunker) | December 8<sup>th</sup>, 2021 | An informational website (requested in the curricular unit Construction of Web Pages 1) about a game chosen by the student
-| [LNEM](https://ufpe-lab.web.app) | [ufpe-lab-neuroendocrinologia](https://github.com/mdccg/ufpe-lab-neuroendocrinologia) | October 8<sup>th</sup>, 2021 | A website developed for the Federal University of _Pernambuco campus Recife_'s Laboratory of Neuroendocrinology and Metabolism
-| [AFaP-TEA](https://afap-tea.web.app) | [afap-tea](https://github.com/mdccg/afap-tea) | April 27<sup>th</sup>, 2019 | A website aimed at disseminating knowledge about autism in _Aquidauana_ city requested in the curricular unit Web Development 1
+On top of that, I am focused on maintaining my detailed repositories in order to clearly demonstrate the activities carried out during my classes, as well as what I have learned and how it can contribute to those who want to explore my skills.
 
 For proposals, invitations, doubts or distress signals, I leave here my means of contact:
 
