@@ -11,28 +11,18 @@ please accept this _cappuccino_ as a reward for making it this far.
 Welcome to my profile, let me to introduce myself:
 
 ```javascript
-export const matheus = {
-  pronouns: 'he/him/his',
+export const matheus = new Dev({
+  pronouns: ['he', 'him'],
   skills: {
-    programmingLanguages: [
-      'typescript',
-      'javascript',
-      'python',
-      'java',
-      'c'
-    ],
-    bundlers: ['vite', 'create-react-app', 'create-expo-app'],
-    backend: ['express', 'node', 'php', 'xampp'],
-    databases: ['postgres', 'mongodb'],
-    testing: ['jest', 'cypress', 'jasmine'],
-    etCetera: ['vercel', 'firebase', 'oauth']
+    languages: ['typescript', 'python', 'php', 'java'],
+    frontend: ['react', 'expo react native'],
+    backend: ['express'],
+    db: ['mongodb', 'postgres', 'mysql'],
+    tdd: ['cypress', 'jest', 'jasmine'],
+    etc: ['vercel', 'firebase']
   },
-  academicCourses: [
-    'technology course in internet systems',
-    'technical course in informatics'
-  ],
   fuel: 'coffee'
-};
+});
 ```
 
 ## About me
