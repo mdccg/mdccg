@@ -73,9 +73,6 @@ For proposals, invitations, doubts or distress signals, I leave here my means of
   <a target="_blank" href="mailto:comparotto.js@gmail.com">
     <img alt="E-mail: comparotto.js@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a target="_blank" href="https://instagram.com/rondoallaturca.mid">
-    <img alt="Instagram: @rondoallaturca.mid" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
   <a target="_blank" href="https://youtu.be/wgC4M2epd6M">
     <img alt="Actually I don't use Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
