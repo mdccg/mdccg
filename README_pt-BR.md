@@ -1,6 +1,6 @@
 <!-- Por favor, não desista de me contratar por causa da indentação desse README, ele funciona assim mesmo -->
 
-<div style="float: right; display: flex;">
+<p>
   <a href="./README.md">
     <img width="64px" src="./assets/en-US.svg" alt="American English" />
   </a>
@@ -8,10 +8,7 @@
   <a href="#" style="margin-left: 16px;">
     <img width="64px" src="./assets/pt-BR.svg" alt="Português Brasileiro" />
   </a>
-</div>
-
-<br />
-<br />
+</p>
 
 # Saudações! <img alt="Saudação vulcana" width="32px" src="./assets/vulcan-salute.svg" />
 

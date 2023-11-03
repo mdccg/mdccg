@@ -1,6 +1,6 @@
 <!-- Please, don't give up on hiring me because of the indentation in this README; it still works that way -->
 
-<div style="float: right; display: flex;">
+<p>
   <a href="#">
     <img width="64px" src="./assets/en-US.svg" alt="American English" />
   </a>
@@ -8,10 +8,7 @@
   <a href="./README_pt-BR.md" style="margin-left: 16px;">
     <img width="64px" src="./assets/pt-BR.svg" alt="Português Brasileiro" />
   </a>
-</div>
-
-<br />
-<br />
+</p>
 
 # Hello there! <img alt="Vulcan salute" width="32px" src="./assets/vulcan-salute.svg" />
 
