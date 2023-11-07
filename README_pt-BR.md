@@ -63,7 +63,7 @@ export const skills = {
   Além disso, estou focado em manter meus repositórios detalhados para demonstrar claramente as atividades realizadas durante minhas aulas, bem como o que aprendi e como isso pode contribuir para aqueles que  desejam explorar minhas habilidades.
 </details>
 
-Para propostas, convites, dúvidas ou sinais de aflição, deixo aqui meus meios de contato:
+Para propostas, convites, dúvidas ou sinais de fumaça, deixo aqui meus meios de contato:
 
 <p>
   <a target="_blank" href="mailto:comparotto.js@gmail.com">
