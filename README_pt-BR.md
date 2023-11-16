@@ -34,8 +34,8 @@ export const skills = {
 
 ## Estatísticas do perfil
 
-![Estatísticas do perfil](https://github-readme-stats.vercel.app/api?username=mdccg&show_icons=true&theme=transparent)
-![Ranking de linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mdccg&theme=transparent&hide=html,css)
+![Estatísticas do perfil](https://github-readme-status-mdccg.vercel.app/api?username=mdccg&show_icons=true&theme=transparent)
+![Linguagens mais utilizadas](https://github-readme-status-mdccg.vercel.app/api/top-langs/?username=mdccg&theme=transparent&hide=html,css,hack,shell)
 
 <details>
   <summary>
