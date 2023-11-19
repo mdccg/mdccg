@@ -11,7 +11,7 @@
 # 👋 Welcome to my profile!
 
 - 🎓 [Information Technology Technician](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/integrado/informatica) at [IFMS](https://ifms.edu.br/) (2017-2020)
-- 👨‍💻 Currently in the 5th semester of the [Technology in Internet Systems degree program](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/graduacao/sistemas-para-internet/sistemas-para-internet) (2021-2024)
+- 👨‍💻 Currently in the 5th semester of the [Technology in Internet Systems degree program](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/graduacao/sistemas-para-internet/sistemas-para-internet) (aug. 2021-jul. 2024)
 - 🏆 Finalist at FETECMS 2018 with the project "IFMS Aqui Comunica: Scrum" (2018)
 - 🔬 PIBIC-EM Scholar for the project "[Kalivôno: promoting access to the Terena language through a progressive app](https://kalivono.vercel.app)" (2019-2020)
 - 🔬 PIBIC Scholar for the project "Development of an app to track the graduates of IFMS" (2021-2022)
