@@ -45,8 +45,8 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-![Profile stats](https://github-readme-stats.vercel.app/api?username=mdccg&show_icons=true&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdccg&theme=transparent&hide=html,css)
+![Profile stats](https://github-readme-status-mdccg.vercel.app/api?username=mdccg&show_icons=true&theme=transparent)
+![Top languages](https://github-readme-status-mdccg.vercel.app/api/top-langs/?username=mdccg&theme=transparent&hide=html,css,hack)
 
 ## My contact information
 
