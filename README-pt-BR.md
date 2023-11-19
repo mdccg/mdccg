@@ -55,7 +55,7 @@
     <img alt="E-mail: comparotto.js@gmail.com" title="comparotto.js@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <a target="_blank" href="https://www.linkedin.com/in/matheus-comparotto-1a7895113">
+  <a target="_blank" href="https://linkedin.com/in/comparotto">
     <img alt="LinkedIn: in/comparotto" title="in/comparotto" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
