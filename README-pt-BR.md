@@ -16,13 +16,16 @@
 - 🔬 Bolsista PIBIC-EM do projeto "[Kalivôno: promovendo o acesso à língua Terena por meio de um app progressivo](https://kalivono.vercel.app)" (2019-2020)
 - 🔬 Bolsista PIBIC do projeto "Desenvolvimento de um aplicativo para acompanhamento dos egressos do IFMS" (2021-2022)
 
+<!--
 ## Conheça meus projetos
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](#)
+-->
 
 ## Tech stack [A-Z]
 
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
