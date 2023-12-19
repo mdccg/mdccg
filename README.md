@@ -72,9 +72,9 @@
     <img alt="Telegram: @mdccg" title="@mdccg" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 
-  <a target="_blank" href="https://wa.me/+5567992224129">
+  <!-- a target="_blank" href="https://wa.me/+5567992224129">
     <img alt="Phone number: +55 (67) 99222-4129" title="+55 (67) 99222-4129" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
+  </a -->
 
   <a target="_blank" href="https://discord.com/channels/@me/mdccg/">
     <img alt="Discord: /mdccg" title="/mdccg" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
