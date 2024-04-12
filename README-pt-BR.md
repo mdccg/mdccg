@@ -11,7 +11,7 @@
 # 👋 Bem-vindo(a) ao meu perfil!
 
 - 🎓 [Técnico em Informática](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/integrado/informatica) pelo IFMS (2017-2020)
-- 👨‍💻 Cursando 5º período do [Curso Superior de Tecnologia em Sistemas para Internet](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/graduacao/sistemas-para-internet/sistemas-para-internet) (ago. 2021-jul. 2024)
+- 👨‍💻 Cursando 6º e último período do [Curso Superior de Tecnologia em Sistemas para Internet](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/graduacao/sistemas-para-internet/sistemas-para-internet) (ago. 2021-jul. 2024)
 - 🏆 Finalista FETECMS 2018 com o projeto "IFMS Aqui Comunica: Scrum" (2018)
 - 🔬 Bolsista PIBIC-EM do projeto "[Kalivôno: promovendo o acesso à língua Terena por meio de um app progressivo](https://kalivono.vercel.app)" (2019-2020)
 - 🔬 Bolsista PIBIC do projeto "Desenvolvimento de um aplicativo para acompanhamento dos egressos do IFMS" (2021-2022)
@@ -19,16 +19,16 @@
 ## Conheça meus projetos
 
 <p>
-  <a target="_blank" href="#">
+  <!-- <a target="_blank" href="https://comparotto.vercel.app/">
     <img alt="Portfólio: https://comparotto.vercel.app/" title="https://comparotto.vercel.app/" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
-  </a>
+  </a> -->
 
   <a target="_blank" href="./assets/Currículo.pdf">
-    <img alt="Baixar currículo em PDF" title="Currículo em PDF  " src="https://img.shields.io/badge/Curriculum-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
+    <img alt="Baixar currículo em PDF" title="Currículo em PDF" src="https://img.shields.io/badge/Currículo%20em%20PDF-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
   </a>
 
-  <a target="_blank" href="#">
-    <img alt="Indeed: foobar" title="foobar" src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" />
+  <a target="_blank" href="https://profile.indeed.com/p/matheusdanielc-p83fs7k">
+    <img alt="Indeed: matheusdanielc-p83fs7k" title="matheusdanielc-p83fs7k" src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" />
   </a>
 </p>
 
