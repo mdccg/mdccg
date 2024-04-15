@@ -23,7 +23,7 @@
     <img alt="Portfólio: https://comparotto.vercel.app/" title="https://comparotto.vercel.app/" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
   </a> -->
 
-  <a target="_blank" href="./assets/Currículo.pdf">
+  <a target="_blank" href="./assets/Curriculo.pdf">
     <img alt="Baixar currículo em PDF" title="Currículo em PDF" src="https://img.shields.io/badge/Currículo%20em%20PDF-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
   </a>
 
