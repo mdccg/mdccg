@@ -6,15 +6,16 @@
   <a href="./README-pt-BR.md" style="margin-left: 16px;">
     <img width="64px" src="./assets/pt-BR.svg" title="Clique aqui para ler a versão em Português Brasileiro" alt="Português Brasileiro" />
   </a>
-</p><small>És <i>tech recruiter</i> brasileiro(a) ou português(a)? Clique na bandeira do Brasil acima para acessar a versão em Língua Portuguesa.</small>
+</p><small>Clique na bandeira do Brasil acima para acessar a versão em Língua Portuguesa.</small>
 
 # 👋 Welcome to my profile!
 
 - 🎓 [Information Technology Technician](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/integrado/informatica) at [IFMS](https://ifms.edu.br/) (2017-2020)
-- 👨‍💻 Currently in the 6th and final semester of the [Technology in Internet Systems degree program](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/graduacao/sistemas-para-internet/sistemas-para-internet) (aug. 2021-jul. 2024)
+- 👨‍💻 Finishing the [Technology in Internet Systems degree program](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/graduacao/sistemas-para-internet/sistemas-para-internet) (aug. 2021-apr. 2025)
 - 🏆 Finalist at FETECMS 2018 with the project "IFMS Aqui Comunica: Scrum" (2018)
 - 🔬 PIBIC-EM Scholar for the project "[Kalivôno: promoting access to the Terena language through a progressive app](https://kalivono.vercel.app)" (2019-2020)
 - 🔬 PIBIC Scholar for the project "Development of an app to track the graduates of IFMS" (2021-2022)
+- 📄 [GOMES, Matheus Daniel Cristal Comparotto. Development of an app to track the graduates of IFMS. Scientific Journal of Campus Party Goiás, n. 4, p. 24, 2024](https://brasil.campus-party.org/wp-content/uploads/2025/02/Revista-Cientifica_CPGoias4.pdf)
 
 ## Check out my work
 
@@ -47,6 +48,7 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
