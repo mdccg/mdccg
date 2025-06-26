@@ -15,7 +15,7 @@
 - 🏆 Finalista FETECMS 2018 com o projeto "IFMS Aqui Comunica: Scrum" (2018)
 - 🔬 Bolsista PIBIC-EM do projeto "[Kalivôno: promovendo o acesso à língua Terena por meio de um app progressivo](https://kalivono.vercel.app)" (2019-2020)
 - 🔬 Bolsista PIBIC do projeto "Desenvolvimento de um aplicativo para acompanhamento dos egressos do IFMS" (2021-2022)
-- 📄 [GOMES, Matheus Daniel Cristal Comparotto. Desenvolvimento de um aplicativo para acompanhamento dos egressos do IFMS. Revista Científica da Campus Party Goiás, n. 4, p. 24, 2024](https://brasil.campus-party.org/wp-content/uploads/2025/02/Revista-Cientifica_CPGoias4.pdf)
+- 📄 [GOMES, Matheus Daniel Cristal Comparotto. Desenvolvimento de um aplicativo para acompanhamento dos egressos do IFMS. Revista Científica da Campus Party Goiás, n. 4, p. 24, 2024](https://brasil.campus-party.org/wp-content/uploads/2025/02/Revista-Cientifica_CPGoias4.pdf#page=24)
 
 ## Conheça meus projetos
 
