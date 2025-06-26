@@ -11,7 +11,7 @@
 # 👋 Bem-vindo(a) ao meu perfil!
 
 - 🎓 [Técnico em Informática](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/integrado/informatica) pelo IFMS (2017-2020)
-- 👨‍💻 Finalizando o [Curso Superior de Tecnologia em Sistemas para Internet](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/graduacao/sistemas-para-internet/sistemas-para-internet) (ago. 2021-abr. 2025)
+- 👨‍💻 Finalizando o [Curso Superior de Tecnologia em Sistemas para Internet](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/graduacao/sistemas-para-internet/sistemas-para-internet) (ago. 2021-jul. 2025)
 - 🏆 Finalista FETECMS 2018 com o projeto "IFMS Aqui Comunica: Scrum" (2018)
 - 🔬 Bolsista PIBIC-EM do projeto "[Kalivôno: promovendo o acesso à língua Terena por meio de um app progressivo](https://kalivono.vercel.app)" (2019-2020)
 - 🔬 Bolsista PIBIC do projeto "Desenvolvimento de um aplicativo para acompanhamento dos egressos do IFMS" (2021-2022)
@@ -39,9 +39,6 @@
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Front-end
 
@@ -50,7 +47,6 @@
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Back-end
@@ -67,8 +63,6 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
 ### Bases de dados
 
