@@ -10,10 +10,10 @@
 
 # 👋 Welcome to my profile!
 
-- 🎓 [Information Technology Technician](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/integrado/informatica) at [IFMS](https://ifms.edu.br/) (2017-2020)
-- 👨‍💻 Finishing the [Technology in Internet Systems degree program](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/graduacao/sistemas-para-internet/sistemas-para-internet) (aug. 2021-jul. 2025)
+- 🎓 [Information Technology Technician](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/integrado/informatica) at [IFMS](https://www.ifms.edu.br/) (2017-2020)
 - 🏆 Finalist at FETECMS 2018 with the project "IFMS Aqui Comunica: Scrum" (2018)
 - 🔬 PIBIC-EM Scholar for the project "[Kalivôno: promoting access to the Terena language through a progressive app](https://kalivono.vercel.app)" (2019-2020)
+- 🎓 [Technologist in Internet Systems](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/graduacao/sistemas-para-internet/sistemas-para-internet) at [IFMS](https://www.ifms.edu.br/) (2021-2025)
 - 🔬 PIBIC Scholar for the project "Development of an app to track the graduates of IFMS" (2021-2022)
 - 📄 [GOMES, Matheus Daniel Cristal Comparotto. Development of an app to track the graduates of IFMS. Scientific Journal of Campus Party Goiás, n. 4, p. 24, 2024](https://brasil.campus-party.org/wp-content/uploads/2025/07/Revista-Cientifica_CPGoias4.pdf#page=24)
 
