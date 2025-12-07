@@ -10,7 +10,7 @@
 
 # 👋 Bem-vindo(a) ao meu perfil!
 
-- 🎓 [Técnico em Informática](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/integrado/informatica) pelo [IFMS](https://www.ifms.edu.br/) (2017-2020)
+- 🎓 [Técnico em Informática](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/integrado/informatica) pelo [IFMS](https://www.ifms.edu.br/) (2017-2021)
 - 🏆 Finalista FETECMS 2018 com o projeto "IFMS Aqui Comunica: Scrum" (2018)
 - 🔬 Bolsista PIBIC-EM do projeto "[Kalivôno: promovendo o acesso à língua Terena por meio de um app progressivo](https://kalivono.vercel.app)" (2019-2020)
 - 🎓 [Tecnólogo em Sistemas para Internet](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/graduacao/sistemas-para-internet/sistemas-para-internet) pelo [IFMS](https://www.ifms.edu.br/) (2021-2025)
