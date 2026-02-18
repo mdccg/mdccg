@@ -16,6 +16,7 @@
 - 🎓 [Technologist in Internet Systems](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/graduacao/sistemas-para-internet/sistemas-para-internet) at [IFMS](https://www.ifms.edu.br/) (2021-2025)
 - 🔬 PIBIC Scholar for the project "Development of an app to track the graduates of IFMS" (2021-2022)
 - 📄 [GOMES, Matheus Daniel Cristal Comparotto. Development of an app to track the graduates of IFMS. Scientific Journal of Campus Party Goiás, n. 4, p. 24, 2024](https://brasil.campus-party.org/wp-content/uploads/2025/07/Revista-Cientifica_CPGoias4.pdf#page=24)
+- 🎓 [M.Sc. Student in Computer Science](https://www.facom.ufms.br/ppgcc/) at [UFMS](https://posgraduacao.ufms.br/portal) (2026~)
 
 ## Check out my work
 

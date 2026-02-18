@@ -16,6 +16,7 @@
 - 🎓 [Tecnólogo em Sistemas para Internet](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/graduacao/sistemas-para-internet/sistemas-para-internet) pelo [IFMS](https://www.ifms.edu.br/) (2021-2025)
 - 🔬 Bolsista PIBIC do projeto "Desenvolvimento de um aplicativo para acompanhamento dos egressos do IFMS" (2021-2022)
 - 📄 [GOMES, Matheus Daniel Cristal Comparotto. Desenvolvimento de um aplicativo para acompanhamento dos egressos do IFMS. Revista Científica da Campus Party Goiás, n. 4, p. 24, 2024](https://brasil.campus-party.org/wp-content/uploads/2025/07/Revista-Cientifica_CPGoias4.pdf#page=24)
+- 🎓 [Mestrando em Ciência da Computação](https://www.facom.ufms.br/ppgcc/) pela [UFMS](https://posgraduacao.ufms.br/portal) (2026~)
 
 ## Conheça meus projetos
 
