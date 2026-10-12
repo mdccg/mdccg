@@ -16,7 +16,7 @@
 - 🎓 [Tecnólogo em Sistemas para Internet](https://www.ifms.edu.br/campi/campus-aquidauana/cursos/graduacao/sistemas-para-internet/sistemas-para-internet) pelo [IFMS](https://www.ifms.edu.br/) (2021-2025)
 - 🔬 Bolsista PIBIC do projeto "Desenvolvimento de um aplicativo para acompanhamento dos egressos do IFMS" (2021-2022)
 - 📄 [GOMES, Matheus Daniel Cristal Comparotto. Desenvolvimento de um aplicativo para acompanhamento dos egressos do IFMS. Revista Científica da Campus Party Goiás, n. 4, p. 24, 2024](https://brasil.campus-party.org/wp-content/uploads/2025/07/Revista-Cientifica_CPGoias4.pdf#page=24)
-- 🎓 [Mestrando em Ciência da Computação](https://www.facom.ufms.br/ppgcc/) pela [UFMS](https://posgraduacao.ufms.br/portal) (2026~)
+- 🎓 Ingressante no [Mestrado Profissional em Computação Aplicada](https://www.facom.ufms.br/ppgcc/) na [UFMS](https://posgraduacao.ufms.br/portal) (2027~)
 
 ## Conheça meus projetos
 
@@ -38,16 +38,16 @@
 
 ### Linguagens de programação
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### Front-end
 
-![Vue](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Back-end
